@@ -5,8 +5,8 @@ This project is designed as a Proof Of Concept Universal App to get the approxim
 
 Currently it:
 
-- Lists the Access Points in the area together with their Received Signal Strength Indicator (RSSI)
-- Estimates the distance based on this formula: d = 10 ^ ((TxPower - RSSI) / (10 * n))
+   Lists the Access Points in the area together with their Received Signal Strength Indicator (RSSI)
+   Estimates the distance based on this formula: d = 10 ^ ((TxPower - RSSI) / (10 * n))
 
 Where:
     * TxPower is the RSSI measured at 1m from a known AP.
