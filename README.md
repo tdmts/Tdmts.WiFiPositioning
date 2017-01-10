@@ -12,5 +12,3 @@ Where:
 -  n is the propagation constant or path-loss exponent. For example: 2.7 to 4.3 (Free space has n =2 for reference).
 -  RSSI is the measured RSSI
 -  d is the distance in meter
-
-Ideally it should measure your location in a room with X, Y and Z coördinates with an accuracy rate of less than 2 meter.
